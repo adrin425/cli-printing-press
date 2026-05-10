@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.3](https://github.com/mvanhorn/cli-printing-press/compare/v4.2.2...v4.2.3) (2026-05-10)
+
+
+### Bug Fixes
+
+* **cli:** block vendor-prefix secrets during publish ([#852](https://github.com/mvanhorn/cli-printing-press/issues/852)) ([8cf5459](https://github.com/mvanhorn/cli-printing-press/commit/8cf5459c947eacb00a94b9fae465ac761d7dc4ff))
+
 ## [4.2.2](https://github.com/mvanhorn/cli-printing-press/compare/v4.2.1...v4.2.2) (2026-05-09)
 
 
